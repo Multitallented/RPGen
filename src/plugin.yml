@@ -1,0 +1,20 @@
+author: Multitallented
+database: false
+authors: [Phoenix_Frenzy]
+description: A robust RPG plugin
+main: multitallented.redcastlemedia.bukkit.rpgen.RPGen
+name: RPGen
+startup: postworld
+version: 0.0.1-b001
+depend: [Vault, HeroScoreboard]
+softdepend: []
+commands:
+   rpgen:
+      aliases: []
+      description: RPGen commands
+      usage: /<command>
+permissions:
+   rpgen.admin:
+      description: Lets you use admin commands
+      default: op
+loadbefore: []
