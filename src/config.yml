@@ -1,0 +1,6 @@
+database:
+  host: localhost
+  username: root
+  password: changeme
+  dp_name: rpgen
+  table_prefix: rpgen
