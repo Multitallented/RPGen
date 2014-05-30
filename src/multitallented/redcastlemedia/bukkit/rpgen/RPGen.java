@@ -8,6 +8,7 @@ import multitallented.redcastlemedia.bukkit.rpgen.database.DatabaseManager;
 import multitallented.redcastlemedia.bukkit.rpgen.listeners.PluginServerListener;
 import net.milkbowl.vault.economy.Economy;
 import net.milkbowl.vault.permission.Permission;
+import org.bukkit.Material;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.configuration.file.FileConfiguration;
